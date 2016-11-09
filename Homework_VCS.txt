@@ -1,0 +1,20 @@
+
+Task2: 	https://github.com/VitaliiNahorniak
+
+Task3:	https://github.com/VitaliiNahorniak/welcome-to-github
+
+Task4:	http://fs9.www.ex.ua/get/595554470023/285283912/VSC_4.png
+
+Task5:	http://fs9.www.ex.ua/get/595554470023/285283916/VSC_5_1.png
+	http://fs9.www.ex.ua/get/595554470023/285283919/VSC_5_2.png
+
+Task6:	https://github.com/VitaliiNahorniak/hello-world-github
+
+Task7:	PS E:\CURSOR-Education\Homeworks\Week_0\hello-world-github> git --version
+	git version 2.10.2.windows.1
+
+Task8:	Play with console Git: 
+	http://fs9.www.ex.ua/get/595554470023/285283924/VSC_7.png
+
+Task9:	An GitHub Pages shared page:
+	https://vitaliinahorniak.github.io/testing-the-github-pages/World.txt
